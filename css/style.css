@@ -91,7 +91,7 @@ h4 {
 	padding:20px;
 }
 #header .bg-bottom {
-	padding:30px 20px 26px 33px;
+	padding:10px 20px 26px 33px;
 	height:100%;
 }
 #logo {
@@ -106,34 +106,6 @@ h4 {
 	width:280px;
 	height:105px;
 	background:url(images/logo.png);
-}
-#search {
-	float:right;
-	padding:50px 11px 0 0;
-}
-#search fieldset {
-	float:right;
-}
-#search .field {
-	background:#fff;
-	color:#666;
-	border:1px solid #ccc;
-	padding:6px;
-	width:201px;
-	float:left;
-	margin-right:9px;
-}
-#search .submit {
-	width:72px;
-	height:29px;
-	line-height:29px;
-	padding-bottom:2px;
-	text-align:center;
-	background:url(images/submit.gif);
-	border:0;
-	cursor:pointer;
-	color:#fff;
-	float:left;
 }
 #navigation {
 	padding:5px 0 7px 1px;
